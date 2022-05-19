@@ -14,3 +14,9 @@ In this project designed and developed the entire frontend with **JavaScript** a
 6. Run *yarn start* in the frontend directory to start the ReactJS app.
 
 ## Gallery
+
+<img width="1440" alt="Screen Shot 2022-05-19 at 2 24 46 pm" src="https://user-images.githubusercontent.com/85619458/169217948-896de428-70c5-463f-8aa7-a866f44b90b1.png">
+
+<img width="1440" alt="Screen Shot 2022-05-19 at 2 25 25 pm" src="https://user-images.githubusercontent.com/85619458/169217986-9dcbdaaf-2c98-46ca-986b-cd8d69b3fe32.png">
+
+<img width="1440" alt="Screen Shot 2022-05-19 at 2 25 37 pm" src="https://user-images.githubusercontent.com/85619458/169218044-25f38ccd-cd5d-4df5-a177-65ce9febedca.png">
